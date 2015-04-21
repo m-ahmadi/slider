@@ -1,0 +1,32 @@
+crock2-3-6
+6
+5
+4
+3
+2
+1
+
+1   1
+2   0
+3   0
+4   1
+5   1
+6   1
+
+current 6   slide 1
+6 - 2 = 4
+current 6   slide 2
+6 - 3 = 3
+current 6   slide 3
+6 - 4 = 2
+current 6   slide 4
+6 - 5 = 1
+
+current 1   slide 6
+6 - 2 = 4
+current 2   slide 6
+6 - 3 = 3
+current 3   slide 6
+6 - 4 = 2
+current 4   slide 6
+6 - 5 = 1
